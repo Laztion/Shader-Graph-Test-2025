@@ -1,4 +1,3 @@
-=
 UNITY SHADER GRAPH
 =
 In Unity, Shader Graph for GUI (specifically uGUI) allows you to create procedurally generated, resolution-independent user interface elements such as buttons, health bars, and progress indicators.
@@ -30,3 +29,4 @@ Apply the resulting material to your UI Image or Button component.
 ==================================================================================
 
 THANKS
+=
