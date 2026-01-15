@@ -26,7 +26,5 @@ Connect it to a Render Type Branch node.
 Plug the branch output into the Base Color and Alpha ports of the Fragment node.
 Apply the resulting material to your UI Image or Button component.
 
-==================================================================================
-
 THANKS
 =
